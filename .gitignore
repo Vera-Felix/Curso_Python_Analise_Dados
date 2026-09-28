@@ -1,0 +1,16 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configurações locais
+.env
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Bases de dados que não devem ser enviadas ao GitHub
+dados_privados/
